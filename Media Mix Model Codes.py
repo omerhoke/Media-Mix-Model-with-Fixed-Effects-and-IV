@@ -106,4 +106,4 @@ iv3, df_iv3 = run_iv(y, X3, 'price', instruments, 'iv_model3_year')
 # Model 4 IV
 iv4, df_iv4 = run_iv(y, X4, 'price', instruments, 'iv_model4_trend')
 
-print("\n✅ All 8 regressions finished. Elasticities and ROI calculated for each model.")
+print("\nAll 8 regressions finished. Elasticities and ROI calculated for each model.")
